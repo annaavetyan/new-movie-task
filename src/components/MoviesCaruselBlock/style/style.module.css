@@ -1,0 +1,22 @@
+.trendingNowSection {
+    padding: 10px 20px 30px;
+    background-color: black;
+}
+
+.preTitle {
+    color: white;
+    font-size: 18px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.movieBox {
+    padding: 10px;
+}
+
+.movieBox img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
